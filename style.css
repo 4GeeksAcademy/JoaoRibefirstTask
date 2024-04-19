@@ -1,0 +1,44 @@
+.main-container {
+    width: 450px;
+    justify-content: center;
+}
+
+img {
+    width: 450px;
+}
+
+.icon-row{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+
+.pic-status {
+    padding-left: 5px;
+}
+
+.pic-description {
+    padding-left: 5px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.heading-left {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.heading-right {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#html5icon {
+    margin: 5px;
+}
